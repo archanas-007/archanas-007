@@ -8,9 +8,6 @@ I am an AI Systems Engineer with over 8 years of experience building production-
 AI Lead: Leading the architecture of AI-enabled healthcare platforms and automating genomic analysis pipelines.
 
 
-MSc in Artificial Intelligence: Currently pursuing my Master's at Brandenburgische Technische Universität (BTU) in Cottbus, Germany.
-
-
 
 🛠️ Tech Stack & Skills
 
@@ -22,19 +19,6 @@ AI & Machine Learning: RAG, LLM Integration, Vector Embeddings, LSTM, XGBoost, a
 +1
 
 
-Architecture & DevOps: Distributed Systems, Event-driven Architecture (Redis/Celery), Docker, Terraform, and AWS.
-+1
-
-
-Databases: PostgreSQL, Vector Databases (Qdrant, Chroma), and Redis.
-
-
 📫 Let's Connect!
 
-LinkedIn: linkedin.com/in/archanasingh15 
-
-
 Email: a3601063s@gmail.com 
-
-
-Location: Cottbus, Germany 🇩🇪
