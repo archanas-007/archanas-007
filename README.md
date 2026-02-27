@@ -24,7 +24,7 @@
     </td>
     <td width="40%" valign="top">
       <img src="https://github-readme-stats.vercel.app/api?username=archanas-007&show_icons=true&theme=radical" alt="Archana's GitHub stats" />
-      <br/>
+      <br/><br/>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=archanas-007&layout=compact&theme=radical" alt="Top Langs" />
     </td>
   </tr>
