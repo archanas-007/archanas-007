@@ -29,5 +29,4 @@
 ---
 
 ### 📫 Let's Connect!
-* [cite_start]**Email:** [a3601063s@gmail.com](mailto:a3601063s@gmail.com) [cite: 1]
-* [cite_start]**LinkedIn:** [archanasingh15](https://www.linkedin.com/in/archanasingh15/)
+**Email:** [a3601063s@gmail.com](mailto:a3601063s@gmail.com) [cite: 1]
