@@ -8,7 +8,6 @@ I am an AI Systems Engineer with over 8 years of software engineering experience
 
 ### 🚀 What I’m Working On
 **AI Lead:** Architecting AI-enabled healthcare platforms and automating genomic analysis pipelines.
-**MSc in AI:** Currently a student at Brandenburgische Technische Universität (BTU).
 
 ### 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
