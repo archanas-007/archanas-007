@@ -7,8 +7,8 @@
 ---
 
 ### 🚀 What I’m Working On
-* [cite_start]**AI Lead:** Architecting AI-enabled healthcare platforms and automating genomic analysis pipelines[cite: 7].
-* [cite_start]**MSc in AI:** Currently a student at Brandenburgische Technische Universität (BTU)[cite: 7].
+**AI Lead:** Architecting AI-enabled healthcare platforms and automating genomic analysis pipelines[cite: 7].
+**MSc in AI:** Currently a student at Brandenburgische Technische Universität (BTU)[cite: 7].
 
 ### 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -18,13 +18,6 @@
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
----
-
-### 📊 GitHub Activity
-![Archana's GitHub stats](https://github-readme-stats.vercel.app/api?username=archanas-007&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=archanas-007&layout=compact&theme=radical)
 
 ---
 
