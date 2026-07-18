@@ -2,8 +2,7 @@
 
 ### AI Systems Engineer | Technical Project Lead | MSc in AI Candidate
 
-I am an AI Systems Engineer with over 8 years of software engineering experience, delivering production-grade AI platforms across healthcare, bioinformatics, and data-intensive systems. I specialize in architecting scalable backends, RAG-based retrieval systems, and automated ML pipelines.
-
+I am a Software Engineer with software engineering experience, delivering production-grade AI platforms across healthcare, bioinformatics, and data-intensive systems.
 ---
 
 ### 🚀 What I’m Working On
