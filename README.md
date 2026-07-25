@@ -1,6 +1,6 @@
 # Hi there, I'm Archana Singh! 👋
 
-### AI Systems Engineer | Technical Project Lead | MSc in AI Candidate
+### Backend Engineer |  MSc in AI Candidate | AI Workflows & Data Platforms 
 
 I am a Software Engineer with software engineering experience, delivering production-grade AI platforms across healthcare, bioinformatics, and data-intensive systems.
 ---
