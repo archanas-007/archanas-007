@@ -5,8 +5,6 @@
 I am a Software Engineer with software engineering experience, delivering production-grade AI platforms across healthcare, bioinformatics, and data-intensive systems.
 ---
 
-### 🚀 What I’m Working On
-**AI Lead:** Architecting AI-enabled healthcare platforms and automating genomic analysis pipelines.
 
 ### 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
